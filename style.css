@@ -1,0 +1,28 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+#Title {
+    text-align: center;
+}
+
+#banner {
+    background-size: cover;
+    width: 50%;
+    height: auto;
+}
+
+.Recipe {
+    color: white;
+    background-color: #F4BA87;
+    font-family: verdana, 'Times New Roman';
+    text-align: center;
+    align-items: center;
+    font-size: 30px;
+
+}
+#Description {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}

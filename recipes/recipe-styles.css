@@ -1,0 +1,24 @@
+body {
+    background-image: url(https://img.freepik.com/premium-photo/empty-wood-table-top-blurred-kitchen-counter-background-can-be-used-display_36078-223.jpg?w=2000);
+    text-align: center;
+}
+
+#recipe-image {
+    height: auto;
+    width: 20%;
+}
+
+.recipe-description {
+}
+.ingredients {
+    background: navajowhite;
+}
+
+.steps {
+    background: navajowhite;
+}
+
+#disclaimer {
+    color: red;
+    background-color: white;
+}
